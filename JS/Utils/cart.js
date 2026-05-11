@@ -74,9 +74,17 @@ export async function renderCart(){
             
     }
 
+
+
     
     
     });
+
+    cartContainer.innerHTML+=`
+            <div class="checkout">
+              <button class="checkout-btn">Checkout</button>
+            </div>
+    `
 
     
    

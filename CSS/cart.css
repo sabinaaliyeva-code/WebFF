@@ -45,6 +45,9 @@
     align-items: center;
     width: 100%;
     padding: 30px 10px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
 }
 
 
