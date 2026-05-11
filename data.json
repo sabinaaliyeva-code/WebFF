@@ -1,0 +1,34 @@
+[
+  {
+    "productId": 101,
+    "company": "Sneaker Company",
+    "productName": "Fall Limited Edition Sneakers",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi eum voluptatem rerum aliquid nihil mollitia, ullam aspernatur fugit, harum consequatur dolorum quod tempora ea accusantium excepturi eos eaque tempore voluptates?",
+    "current": 125.00,
+    "currency": "$",
+    "discount": "50%",
+    "oldPrice": 250.00,
+    "images": [
+      {
+        "id": 1,
+        "thumbnail": "../images/image-product-1-thumbnail.jpg",
+        "full": "../images/image-product-1.jpg"
+      },
+      {
+        "id": 2,
+        "thumbnail": "../images/image-product-2-thumbnail.jpg",
+        "full": "../images/image-product-2.jpg"
+      },
+      {
+        "id": 3,
+        "thumbnail": "../images/image-product-3-thumbnail.jpg",
+        "full": "../images/image-product-3.jpg"
+      },
+      {
+        "id": 4,
+        "thumbnail": "../images/image-product-4-thumbnail.jpg",
+        "full": "../images/image-product-4.jpg"
+      }
+    ]
+  }
+]
