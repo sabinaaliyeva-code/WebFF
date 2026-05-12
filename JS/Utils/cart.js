@@ -31,7 +31,7 @@ export async function renderCart(){
             cartContainer.innerHTML += `
                    
     
-
+            <div class="cart-item">
         
                 <img src="${cartItem.images[0].full}" class="cart-image" data-id="${cartItem.productId}">
 
@@ -57,6 +57,7 @@ export async function renderCart(){
             </div>
             
                 
+            </div>
             </div>
             
             
