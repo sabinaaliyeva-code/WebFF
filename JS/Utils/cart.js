@@ -82,7 +82,7 @@ export async function renderCart(){
 
     cartContainer.innerHTML+=`
             <div class="checkout">
-              <button class="checkout-btn">Checkout</button>
+              <button class="checkout-btn"><a href="checkout.html">Checkout</a></button>
             </div>
     `
 
